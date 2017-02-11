@@ -1,0 +1,15 @@
+.logo {
+    position: relative;
+    top: 130px;
+    left: 3px;
+    font-family: Source Sans Pro;
+    font-variant: bold;
+    font-size: 100px;
+    color: white;
+}
+
+.page-header {
+    background: #946db9;
+    height: 250px;
+    width: 100%;
+}
